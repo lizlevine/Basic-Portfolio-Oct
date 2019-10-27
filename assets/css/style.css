@@ -2,6 +2,9 @@
   box-sizing: border-box;
 }
 
+/*         <img src="assets/images/IMG_2316.jpg" height: 200px width: 200px class="auth-image" alt="Liz & Reiki picture">
+ */
+
 body {
   background-image: url("../images/lilypads.png");
   font-size: 18px;
